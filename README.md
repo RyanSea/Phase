@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/WPt0I8t.png" width="250">
+<img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fpwozb%2Fimages%2FScreenshot%202022-08-07%20at%2013.39.02.png" width="250">
+
 
 # Phase
 ## NFT-Based Linktree
@@ -7,8 +8,8 @@ Phase allows any user to create their own NFT token that stores all of their pro
 
 MetaPhase.sol is the manager contract that is used to create and interface with Phase Profile NFT contracts (Phase.sol)
 
-<img src="https://storage.googleapis.com/ethglobal-api-production/projects%2Fpwozb%2Fimages%2FScreenshot%202022-08-07%20at%2013.39.02.png" width="500">
 
+<img src="https://i.imgur.com/WPt0I8t.png" width="500">
 
 
 
